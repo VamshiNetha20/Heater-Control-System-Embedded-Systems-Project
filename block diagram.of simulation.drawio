@@ -1,0 +1,66 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1303" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;labelBackgroundColor=none;fontColor=default;verticalAlign=middle;strokeColor=#23445D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mqWyPWeulhfndeic1mpu-4" target="mqWyPWeulhfndeic1mpu-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.374;exitY=0.963;exitDx=0;exitDy=0;flowAnimation=0;labelBackgroundColor=none;fontColor=default;verticalAlign=middle;strokeColor=#23445D;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mqWyPWeulhfndeic1mpu-4" target="mqWyPWeulhfndeic1mpu-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="420" as="sourcePoint" />
+            <mxPoint x="660" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="397" />
+              <mxPoint x="555" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqWyPWeulhfndeic1mpu-4" value="&lt;strong data-end=&quot;696&quot; data-start=&quot;681&quot;&gt;Arduino Uno&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=0;labelBackgroundColor=none;fontColor=default;verticalAlign=middle;strokeColor=#23445D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mqWyPWeulhfndeic1mpu-5" target="mqWyPWeulhfndeic1mpu-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mqWyPWeulhfndeic1mpu-5" value="&lt;strong data-end=&quot;747&quot; data-start=&quot;725&quot;&gt;Digital Output Pin&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="645" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqWyPWeulhfndeic1mpu-6" value="&lt;strong data-end=&quot;847&quot; data-start=&quot;823&quot;&gt;Heater Indicator LED&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="815" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;labelBackgroundColor=none;fontColor=default;verticalAlign=middle;strokeColor=#23445D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mqWyPWeulhfndeic1mpu-7" target="mqWyPWeulhfndeic1mpu-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="360" />
+              <mxPoint x="410" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mqWyPWeulhfndeic1mpu-7" value="&lt;b&gt;DHT11 Sensor&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="235" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqWyPWeulhfndeic1mpu-8" value="&lt;b&gt;LED / Buzzer (Indicator)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="460" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=0;labelBackgroundColor=none;fontColor=default;verticalAlign=middle;strokeColor=#23445D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XSQ_GXMHHzaNm3P8nczb-31" target="mqWyPWeulhfndeic1mpu-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSQ_GXMHHzaNm3P8nczb-31" value="&lt;b&gt;Power Suply&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;flipH=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="458.75" y="210" width="132.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="htYqF8h-GFMkpQFn68Xf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;entryX=0.669;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="htYqF8h-GFMkpQFn68Xf-0" target="mqWyPWeulhfndeic1mpu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htYqF8h-GFMkpQFn68Xf-0" value="&lt;b&gt;Serial Monitor&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="htYqF8h-GFMkpQFn68Xf-8" value="&lt;strong data-end=&quot;281&quot; data-start=&quot;241&quot;&gt;Simulation-Level System Architecture&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=34;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="70" width="630" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
