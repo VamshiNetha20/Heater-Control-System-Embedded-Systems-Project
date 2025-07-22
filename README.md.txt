@@ -1,8 +1,7 @@
-
 🔥 Heater Control System – Embedded Systems Project
 
-Internship: Embedded Systems Intern – upliance.ai
-Author: Vamshi Krishna
+Internship: Embedded Systems Intern – upliance.ai  
+Author: Vamshi Krishna  
 Date: July 22, 2025
 
 ------------------------------------------------------------
@@ -64,19 +63,13 @@ Temp: 29.2 C | State: Stabilizing
 ------------------------------------------------------------
 🧰 Files Included
 
-Heater_Control_System/
-├── arduino_code.ino                 # Main Arduino code
-├── README.txt                       # This documentation
-├── Design_Report.pdf                # Final system design report
-├── simulation_architecture.drawio   # Simulation block diagram
-├── hardware_architecture.drawio     # Real-world block diagram
-├── wokwi_link.txt                   # Link to Wokwi project
-
-------------------------------------------------------------
-🔗 Simulation Link
-
-Test it live in the browser using Wokwi simulator:
-👉 https://wokwi.com/projects/437113575167255553
+Heater_Control_System/  
+├── arduino_code.ino                 # Main Arduino code  
+├── README.txt                       # This documentation  
+├── Design_Report.pdf                # Final system design report  
+├── simulation_architecture.drawio   # Simulation block diagram  
+├── hardware_architecture.drawio     # Real-world block diagram  
+├── wokwi_link.txt                   # Link to Wokwi project  
 
 ------------------------------------------------------------
 🚀 Future Improvements
@@ -92,4 +85,17 @@ Test it live in the browser using Wokwi simulator:
 ------------------------------------------------------------
 ✅ Conclusion
 
-This project is a complete embedded system application demonstrating sensor integration, actuator control, state machine logic, and user interface with safety feedback. It serves as a strong foundation for smart appliances or industrial automation development.
+This project is a complete embedded system application demonstrating sensor integration, actuator control, state machine logic, and user interface with safety feedback. It serves as a strong foundation for smart appliances or industrial automation.
+
+------------------------------------------------------------
+🔗 Useful Links
+
+👉 **Wokwi Simulation**  
+https://wokwi.com/projects/437113575167255553
+
+👉 **GitHub Repository**  
+https://github.com/VamshiNetha20/Heater-Control-System-Embedded-Systems-Project
+
+👉 **ZIP Download (Code + Docs)**  
+https://drive.google.com/file/d/12YN2WSeL2MeOTAI8Nv-A8OhrpZL8-7st/view?usp=drive_link
+
